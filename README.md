@@ -40,6 +40,8 @@ cd WeatherApp-Csharp
 ```sh
 dotnet run --project WeatherApp
 ```
+※ WeatherApp.exeをダブルクリックしても起動させることが出来ます。
+
 ## 📜 ライセンス
 このプロジェクトはMIT Licenseのもとで公開されています。
 
