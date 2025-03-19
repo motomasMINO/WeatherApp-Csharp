@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\weatherapp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\weatherapp\\weatherapp\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFA8563-43E6-4420-B49A-42D46D5FDEEB}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "WeatherApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:56:55.055Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\WeatherInfo.cs",
+              "RelativeToolTip": "WeatherApp\\WeatherInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:15:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\WeatherApp\\WeatherApp\\Form1.cs",
+              "RelativeToolTip": "WeatherApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:12:49.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
